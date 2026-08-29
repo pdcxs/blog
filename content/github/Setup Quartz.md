@@ -108,7 +108,7 @@ npx quartz build --serve
 
 参考[官网](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)，先新建一个名为 `quartz` 的仓库，不要包含 `README`、`.gitignore` 和 `LICENSE`。
 
-按照[[git如何设置远程接入地址]]中的方法，设置好远程地址。
+按照[[Git Set Remote Address|Git如何设置远程地址]]中的方法，设置好远程地址。
 
 需要再执行以下命令来删除 `upstream` 地址：
 
