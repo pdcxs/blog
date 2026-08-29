@@ -19,5 +19,3 @@ title: 欢迎来到 PDCXS 的博客
 欢迎访问我的 [B站主页](https://space.bilibili.com/10707223)。
 
 本项目支持 [RSS 订阅](https://pdcxs.github.io/index.xml)
-
-<RecentNotes />

@@ -7,8 +7,6 @@ tags:
 title: Windows 系统的键盘配置
 ---
 
-# Windows 系统的键盘配置
-
 在 Linux 系统下，我们可以使用 keyd 进行键盘配置，参见[[Arch Linux Keyboard Setup|Arch Linux 系统下的键盘配置]]。但是在 Windows 系统下如何实现？
 
 ## 配置方法
