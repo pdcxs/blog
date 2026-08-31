@@ -17,8 +17,8 @@ title: WSL 中配置 LazyVim 与 NeoVide
 - `fzf`
 - `curl`
 - `git`
-- `repgrep`
-- `fd` (Ubuntu中叫 `fdfind`)
+- `ripgrep`
+- `fd` (Ubuntu中叫 `fd-find`)
 - 图形化终端(用 `NeoVide` 可以忽略)
 - `lazygit`
 - 任意 `Nerd Font`
@@ -51,7 +51,7 @@ scoop install neovide
 
 ### Neovide
 
-可以先[[WSL fonts|wsl-中共享-windows-字体|共享Windows字体]]。
+可以先[[WSL fonts|WSL 中共享 Windows 字体]]。
 
 增加以下命令到 `.bashrc` 中:
 
